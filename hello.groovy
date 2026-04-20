@@ -1,4 +1,3 @@
-//commint from github
 def call(){
-	echo "Hello Jenkins, This is Jenkins Shared Lib"
+	echo "Hello Jenkins, / Main Repo This is Jenkins Shared Lib"
 }
